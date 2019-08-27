@@ -1,7 +1,7 @@
 # This is My First WebSite
 This is __Salah ELEtreby__ first WebSite. It provide more details for the following:
-* [Jenkins] (https://jenkins.io/)
-* [Kubernetes] (https://kubernetes.io/)
+* To get more information about Jenkins [Jenkins HomePage](https://jenkins.io/)
+
 ### Some basic git commands:
 You can check the status of added or commited changes using:
 ```
